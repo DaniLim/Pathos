@@ -1,7 +1,18 @@
 # Phase 0 Tasks
 
-- [ ] Scaffold FastAPI backend with posts endpoints.
-- [ ] Build minimal web frontend to create and view posts.
-- [ ] Prototype cross-language matching using embeddings.
-- [ ] Provide Docker Compose for local development.
-- [ ] Add unit tests for API.
+## Backend Prototype
+- [x] Create FastAPI project skeleton
+- [x] Set up SQLite database and SQLAlchemy model for posts
+- [x] Implement POST /posts endpoint
+- [x] Implement GET /posts endpoint
+
+## Frontend Prototype
+- [x] Build simple HTML page to submit and list posts
+
+## Matching Prototype
+- [x] Add matcher module with offline embeddings search
+
+## Development Environment
+- [x] Provide Docker Compose for API and database
+- [x] Add unit tests for /posts endpoints
+
