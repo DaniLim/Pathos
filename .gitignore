@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.eggs/
+.Python
+build/
+dist/
+
+# Virtual environment
+venv/
+ENV/
+
+# Node
+node_modules/
+.npm/
+
+# Logs
+*.log
+
+# dotenv
+.env
+.env.*
+
+# Docker
+*.bak
+Dockerfile*
+.docker*
+Docker-compose*
+
+# IDEs
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Compiled
+*.so
+
